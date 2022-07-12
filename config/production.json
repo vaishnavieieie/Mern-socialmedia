@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://vaishnavi:vaishnavi24@devconnector.qksoy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecretToken": "mysecrettoken",
-  "githubToken": "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"
+  "mongoURI": "",
+  "jwtSecretToken": "",
+  "githubToken": ""
 }
